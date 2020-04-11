@@ -7,7 +7,8 @@
   "dependencies": {
     "@hapi/hapi": "^18.4.0",
     "mongoose": "^5.7.5",
-    "hapi-router": "^4.0.1"
+    "hapi-router": "^4.0.1",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"

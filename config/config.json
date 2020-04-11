@@ -5,8 +5,8 @@
     },
     "database": {
         "host": "localhost",
-        "user": "healert",
-        "password": "healert123",
+        "user": "root",
+        "password": "jess@2020",
         "database": "healert",
         "multipleStatement": true
     }
